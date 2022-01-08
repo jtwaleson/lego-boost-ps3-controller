@@ -1,0 +1,2 @@
+pygame==2.1.2
+pylgbst==1.2.2
